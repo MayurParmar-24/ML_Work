@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.0.1
+Author: Mayur
+Author-email: mayur2209b01@aptechgdn.net
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
